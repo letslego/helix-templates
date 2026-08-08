@@ -1,0 +1,14 @@
+{
+  "name": "helix-travel-agent",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "console": "helix console",
+    "dev": "helix dev",
+    "eval": "helix eval"
+  },
+  "dependencies": {
+    "@letslego/helix": "github:letslego/helix#main",
+    "zod": "^3.24.2"
+  }
+}

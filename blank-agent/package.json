@@ -1,0 +1,13 @@
+{
+  "name": "helix-blank-agent",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "console": "helix console",
+    "dev": "helix dev"
+  },
+  "dependencies": {
+    "@letslego/helix": "github:letslego/helix#main",
+    "zod": "^3.24.2"
+  }
+}
